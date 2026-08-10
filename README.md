@@ -12,6 +12,13 @@ This portfolio tracks everything I've built and learned while earning the **AWS 
 
 ---
 
+## Certifications
+
+**Cloud:** AWS Certified Solutions Architect – Associate (SAA-C03)
+**Security:** CompTIA CASP+, CySA+, Security+ · ISC2 Certified in Cybersecurity (CC)
+
+---
+
 ## Security Assessments
 
 Hands-on security work documented in this repository.
