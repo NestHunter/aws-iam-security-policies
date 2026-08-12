@@ -1,6 +1,6 @@
 # Cloud Security Portfolio
 
-**Last updated:** August 2026 | **Labs and assessments completed:** 9 | **Planned:** 4 | **Certified:** AWS Solutions Architect Associate (SAA-C03)
+**Last updated:** August 2026 | **Labs and assessments completed:** 9 | **Policy library:** 4 | **Planned:** 4 | **Certified:** AWS Solutions Architect Associate (SAA-C03)
 
 ---
 
@@ -26,6 +26,14 @@ Hands-on security work documented in this repository.
 ### [IAM Access Control Assessment](./projects/01-iam-access-control/README.md)
 
 Identity-based and resource-based policy evaluation, ABAC through matched principal and resource tags, permissions boundaries as a delegation ceiling, and validation through the IAM Policy Simulator. Includes a production-hardening section covering Identity Center federation, service control policies, and continuous auditability with CloudTrail, Config, and IAM Access Analyzer.
+
+---
+
+## Policy Library
+
+### [IAM & Resource Policy Library](./policies/README.md)
+
+Least-privilege IAM and resource policies for common AWS security patterns, each with a documented rationale and validation approach. Currently covers: VPC Flow Logs → S3 delivery, an SCP denying disablement of core security services, a cross-account role with an external ID, and a KMS key policy separating administration from usage.
 
 ---
 
