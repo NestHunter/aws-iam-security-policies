@@ -22,4 +22,4 @@ Every JSON file uses placeholder account IDs, ARNs, and resource names. No real 
 
 ---
 
-More entries will be added here as I continue through AWS Certified Security – Specialty (SCS-C02) prep — each new domain studied becomes a candidate for a policy in this library.
+More entries will be added here as I continue through AWS Certified Security – Specialty (SCS-C03) prep — each new domain studied becomes a candidate for a policy in this library.

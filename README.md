@@ -1,6 +1,6 @@
 # Cloud Security Portfolio
 
-**Last updated:** August 2026 | **Labs and assessments completed:** 9 | **Policy library:** 4 | **Planned:** 4 | **Certified:** AWS Solutions Architect Associate (SAA-C03)
+**Last updated:** October 2026 | **Labs and assessments completed:** 9 | **Policy library:** 4 | **Planned:** 4 | **Certified:** AWS Solutions Architect Associate (SAA-C03)
 
 ---
 
@@ -8,7 +8,7 @@
 
 I'm a cybersecurity professional transitioning into cloud architecture and AWS. My background is in security investigations and operations. I understand how systems get compromised, and now I'm learning how to build the infrastructure underneath them the right way.
 
-This portfolio tracks everything I've built and learned while earning the **AWS Solutions Architect Associate (SAA-C03)** certification (passed August 2026), and it continues now as I pursue the **AWS Certified Security – Specialty (SCS-C02)** and lay the groundwork for a career in cloud security engineering. It's not a finished showcase. It's a living record of a deliberate transition, built in public.
+This portfolio tracks everything I've built and learned while earning the **AWS Solutions Architect Associate (SAA-C03)** certification (passed August 2026), and it continues now as I pursue the **AWS Certified Security – Specialty (SCS-C03)** and lay the groundwork for a career in cloud security engineering. It's not a finished showcase. It's a living record of a deliberate transition, built in public.
 
 ---
 
